@@ -1,6 +1,6 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+name: Contribution
+description: Make a contribution to MWW
+title: "[Buug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
